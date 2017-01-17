@@ -14,7 +14,7 @@
 }
 #KSP, #ROM, #Opinion, #STE {
 	background-color: #212121;
-	border-radius: 0px 10px 10px 0px;
+	border-radius: 10px 10px 10px 10px;
 	font-family: roboto;
 	font-size:  18px;
 	padding-top: 1.0rem;
@@ -25,11 +25,11 @@
 }
 
 #ROM {
-	border-radius: 10px 0px 0px 10px;
+	border-radius: 10px 10px 10px 10px;
 }
 
 #STE {
-	border-radius: 10px 0px 0px 10px;
+	border-radius: 10px 10px 10px 10px;
 }
 
 #KSPP{
@@ -61,7 +61,7 @@
 
 #SSN {
 	background-color: #212121;
-	border-radius: 10px 0px 0px 10px;
+	border-radius: 10px 10px 10px 10px;
 	margin-top: 10px;
 }
 
