@@ -1,20 +1,72 @@
-.alert alert-dismissible alert-danger {
-	margin-left: 60px;
-	margin-right: 60px;
-	margin-top: 40px;
-	padding: 15px 15px;
-}
-#Jumbotron {
-	background-color: #BC1D1E;
-	border-radius: 10px;
+#ListGroup1 {
+	border-radius: 20px 20px 20px 20px;
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-bottom: 40px;
 	text-align: center;
-	padding: 10px;
-	padding-top: 500px;
 }
 
 #Welcome {
 	border-radius: 10px;
-	margin-top: 5.0rem;
-	text-align: center;
+	margin-left: 260px;
+	margin-right: 240px;
 	background-color: #212121;
+}
+#KSP, #ROM, #Opinion, #STE {
+	background-color: #212121;
+	border-radius: 0px 10px 10px 0px;
+	font-family: roboto;
+	font-size:  18px;
+	padding-top: 1.0rem;
+}
+
+#Opinion {
+	margin-top: 15px;
+}
+
+#ROM {
+	border-radius: 10px 0px 0px 10px;
+}
+
+#STE {
+	border-radius: 10px 0px 0px 10px;
+}
+
+#KSPP{
+	font-size: 12px;
+	padding-bottom: 120px;
+}
+
+#ROMP {
+	font-size: 12px;
+}
+
+#AVI, #STEP {
+	font-size: 12px;
+}
+
+#AE {
+	background-color: #212121;
+	border-radius: 0px 10px 10px 0px;
+	margin-right: 65px;
+	margin-top: 10px;
+}
+
+#AI {
+	background-color: #212121;
+	border-radius: 10px 10px 10px 10px;
+	margin-right: 66px;
+	margin-top: 10px;
+}
+
+#SSN {
+	background-color: #212121;
+	border-radius: 10px 0px 0px 10px;
+	margin-top: 10px;
+}
+
+img {
+	border: 10px;
+	padding-top: 12px;
+	text-align: left;
 }
